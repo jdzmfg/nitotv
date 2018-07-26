@@ -1,7 +1,7 @@
 name: nitotv repository
-bio: a nitotv repo created by @nostalg1a
+bio: a nitotv repository created by @nostalg1a
 
-description: a nitotv repo created by @nostalg1a
+description: a nitotv repository created by @nostalg1a
 external-image: true
 picture: assets/images/nitotv.jpg
 
@@ -13,12 +13,12 @@ permalink: /:title/
 authors:
     repo:
         name: nitotv repository
-        bio: a nitotv repo created by @nostalg1a
+        bio: a nitotv repository created by @nostalg1a
         external-image: true
         picture: assets/images/nitotv.jpg
     repo:
         name: nitotv repository
-        bio: a nitotv repo created by @nostalg1a
+        bio: a nitotv repository created by @nostalg1a
         external-image: true
         picture: assets/images/nitotv.jpg
 
