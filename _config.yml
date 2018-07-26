@@ -1,9 +1,9 @@
-name: cydia repository
-bio: a public cydia repo created by @nostalg1a
+name: nitotv repository
+bio: a nitotv repo created by @nostalg1a
 
-description: a public cydia repo created by @nostalg1a
+description: a nitotv repo created by @nostalg1a
 external-image: true
-picture: assets/images/cydia.jpg
+picture: assets/images/nitotv.jpg
 
 url: https://nostalg1a.github.io
 
@@ -12,22 +12,22 @@ permalink: /:title/
 
 authors:
     repo:
-        name: cydia repository
-        bio: a public cydia repo created by @nostalg1a
+        name: nitotv repository
+        bio: a nitotv repo created by @nostalg1a
         external-image: true
-        picture: assets/images/cydia.jpg
+        picture: assets/images/nitotv.jpg
     repo:
-        name: cydia repository
-        bio: a public cydia repo created by @nostalg1a
+        name: nitotv repository
+        bio: a nitotv repo created by @nostalg1a
         external-image: true
-        picture: assets/images/cydia.jpg
+        picture: assets/images/nitotv.jpg
 
 width: normal
 
 
 
 email: nostalg1a@outlook.com
-github: nostalg1a/cydia
+github: nostalg1a/nitotv
 
 
 
