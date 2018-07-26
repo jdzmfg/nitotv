@@ -1,0 +1,9 @@
+Package: com.ultrasonicbeam.setgen
+Name: SetGen
+Version: 1.0
+Architecture: appletv-arm64
+Description: Set the generator to nvram for use with futurerestore. To start type "gen" in mobile terminal.
+Maintainer: ultrasonicbeam <ultrasonicbeam@outlook.com>
+Author: ultrasonicbeam <ultrasonicbeam@outlook.com>
+Section: Scripting
+

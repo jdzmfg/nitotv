@@ -1,0 +1,25 @@
+#!/bin/bash
+echo "[*]Thanks for using this script!
+read -r -p "Is Your Device In a Jailbroken State [y/N] " response
+if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
+	then
+su
+echo "[*]Enter Generator from shsh file here!"
+read Generator
+echo "This script will now right to nvram, click enter to continue"
+nvram com.apple.System.boot-nonce="$Generator"
+echo "[*]Press Return to Continue!"
+sleep 1
+nvram -p
+echo "[*]If you see your generator in the nvram settings, this worked!
+echo "[*]If not,re-load the script
+echo "Click return to reboot and enter recovery mode(for restore), or just kill the script"
+sleep 4
+nvram auto-boot=false
+echo "[*]Press Return to Continue!"
+reboot
+else
+	echo "this only works on jb devices, What were you thinking!!!!"
+fi
+
+
