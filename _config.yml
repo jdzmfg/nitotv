@@ -1,0 +1,51 @@
+name: cydia repository
+bio: a public cydia repo created by @nostalg1a
+
+description: a public cydia repo created by @nostalg1a
+external-image: true
+picture: assets/images/cydia.jpg
+
+url: https://nostalg1a.github.io
+
+permalink: /:title/
+
+
+authors:
+    repo:
+        name: cydia repository
+        bio: a public cydia repo created by @nostalg1a
+        external-image: true
+        picture: assets/images/cydia.jpg
+    repo:
+        name: cydia repository
+        bio: a public cydia repo created by @nostalg1a
+        external-image: true
+        picture: assets/images/cydia.jpg
+
+width: normal
+
+
+
+email: nostalg1a@outlook.com
+github: nostalg1a/cydia
+
+
+
+read-time: true
+show-tags: true
+related: true
+post-advance-links: [blog]
+show-author: true
+animation: true
+
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com
