@@ -1,8 +1,8 @@
 <nav class="{% if page.title == "home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if site.home == true %}
+        {% if page.title != "home" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}https://n-stalgia.github.io/">home</a>
+                    <a class="link" href="{{ site.url }}/">home</a>
                 </li>
             {% endif %}
         {% endif %}
