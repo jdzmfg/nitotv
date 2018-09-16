@@ -1,9 +1,10 @@
 <nav class="{% if page.title == "home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "home" %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}https://n-stalgia.github.io/">home</a>
-            </li>
+        {% if site.home == true %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}https://n-stalgia.github.io/">home</a>
+                </li>
+            {% endif %}
         {% endif %}
     </ul>
 </nav>
