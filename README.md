@@ -1,11 +1,11 @@
-A nitotv repository created by [nostalgia](https://twitter.com/n_staIgia)
+A nitotv repository created by [nostalgia](https://twitter.com/n_stlga)
 
 ### [nostalgia's nitotv repository](https://n_staIgia.github.io/nitotv/)
 
 
 ## Issues
 
-Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/n_staIgia)
+Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/n_stlga)
 
 ## Contributing
 
