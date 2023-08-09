@@ -1,11 +1,11 @@
 name: nitotv repository
-bio: a nitotv repository created by nostalgia
+bio: a nitotv repository created by jmd0x
 
-description: a nitotv repository created by nostalgia
+description: a nitotv repository created by jmd0x
 external-image: true
 picture: assets/images/nitotv.jpg
 
-url: https://nostalg1a.github.io/nitotv/
+url: https://jmd0x.github.io/nitotv/
 
 permalink: /:title/
 
@@ -13,12 +13,12 @@ permalink: /:title/
 authors:
     repo:
         name: nitotv repository
-        bio: a nitotv repository created by nostalgia
+        bio: a nitotv repository created by jmd0x
         external-image: true
         picture: assets/images/nitotv.jpg
     repo:
         name: nitotv repository
-        bio: a nitotv repository created by nostalgia
+        bio: a nitotv repository created by jmd0x
         external-image: true
         picture: assets/images/nitotv.jpg
 
@@ -26,8 +26,8 @@ width: normal
 
 
 
-email: n_stalgia@outlook.com
-github: n-stalgia
+email: jmd0x@github.io
+github: jmd0x
 
 home: true
 
