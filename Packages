@@ -1,14 +1,14 @@
-Package: com.nostalg1a.setgen
+Package: com.jmd0x.setgen
 Version: 1.0
 Architecture: appletv-arm64
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Filename: ./debs/com.nostalg1a.setgen_1.0_appletv-arm64.deb
+Maintainer: jmd0x <jmd0x@github.io>
+Filename: ./debs/com.jmd0x.setgen_1.0_appletv-arm64.deb
 Size: 1128
 MD5sum: fdf5576fcb2908d4c4e008e17155e84f
 SHA1: 04c1ac4b88a49555be33025f5c42c8470dd16a70
 SHA256: ede9369ad91cdf932d437f8ebe755aa048ce1a2dccfbe14c7364c58f2002fd70
 Section: Scripting
 Description: Set the generator to nvram for use with futurerestore. To start type "gen" in mobile terminal.
-Author: nostalg1a <nostalg1a@outlook.com>
+Author: jmd0x <jmd0x@github.io>
 Name: SetGen
 
