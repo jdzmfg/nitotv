@@ -1,8 +1,8 @@
-Origin: nostalg1a
-Label: nostalgia's nitotv repository
+Origin: jmd0x
+Label: jmd0x's nitotv repository
 Suite: stable
 Version: 1.0
 Codename: tvos
 Architectures: appletvos-arm64
 Components: main
-Description: nostalgia's nitotv repository
+Description: jmd0x's nitotv repository
