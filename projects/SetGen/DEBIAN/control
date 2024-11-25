@@ -1,9 +1,9 @@
-Package: com.nostalg1a.setgen
+Package: com.jdzmfg.setgen
 Name: SetGen
-Version: 1.0
+Version: 2.0
 Architecture: appletv-arm64
 Description: Set the generator to nvram for use with futurerestore. To start type "gen" in mobile terminal.
-Maintainer: nostalg1a <nostalg1a@outlook.com>
-Author: nostalg1a <nostalg1a@outlook.com>
+Maintainer: jdzmfg <jdzmfg@yahoo.com>
+Author: jdzmfg <jdzmfg@yahoo.com>
 Section: Scripting
 
